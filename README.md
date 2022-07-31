@@ -14,7 +14,7 @@ Will commit in README and will opimize/update the EFI floder in the near future.
 
 # Any Questions? 遇到問題？
 Feel free to ask for anything no understand, or request an EFI for other hardware/peripherals.  
-However, I might need your support to buy one if I don't have the plan buying it.😉  
+However, I might need your support to buy the hardware if I don't have the plan buying it.😉  
   
 遇到問題，或是想要我製作支援其他配備的EFI，都歡迎提出。  
 但若我沒有所需設備，且並沒有添購該設備的計畫，就需要你來支持我了！😉
