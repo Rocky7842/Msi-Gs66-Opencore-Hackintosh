@@ -11,10 +11,10 @@ Will commit in README and will opimize/update the EFI floder in the near future.
   
 此版本的Opencore EFI適用於MacOS Monterey 12.2.1，尚未於其他版本測試。  
 近期將會更新使用説明，並優化EFI和更新對新版本MacOS的支持。  
-
-#Spec 硬體規格
-於Gs66-10SE上測試，理論上相容於其他Gs66近似機型
-Tested on Gs66-10SE, theoretically compatible with some other Gs66 variant.
+  
+#Spec 硬體規格  
+於Gs66-10SE上測試，理論上相容於其他Gs66近似機型．  
+Tested on Gs66-10SE, theoretically compatible with some other Gs66 variant.  
 | Component                 | Gs66-10SE Spec                                                 |
 |---------------------------|----------------------------------------------------------------|
 | CPU                       | Intel Core i7-10875H                                           |
@@ -23,8 +23,8 @@ Tested on Gs66-10SE, theoretically compatible with some other Gs66 variant.
 | dGPU                      | Nvidia GeForce RTX™ 2060 6G                                    |
 | Monitor                   | 1920*1080@240hz                                                |
 | Ethernet card             | Intel Killer Ethernet E3100 2.5 Gbps                           |
-| Wifi card                 | Intel Killer Wi-Fi 6 AX1650i                                   |
-
+| Wifi card                 | Intel Killer Wi-Fi 6 AX1650i                                   |  
+  
 # Any Questions? 遇到問題？
 Feel free to ask for anything no understand, or request an EFI for other hardware/peripherals.  
 However, I might need your support to buy the hardware if I don't have the plan buying it.😉  
