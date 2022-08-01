@@ -13,7 +13,7 @@ Will commit in README and will opimize/update the EFI floder in the near future.
 近期將會更新使用説明，並優化EFI和更新對新版本MacOS的支持。  
   
 # Spec 硬體規格  
-Tested on Gs66-10SE, theoretically compatible with some other Gs66 variant. 
+Tested on Gs66-10SE, theoretically compatible with some other Gs66 variant.  
 於Gs66-10SE上測試，理論上相容於其他Gs66近似機型．  
   
 | Component                 | Gs66-10SE Spec                                                 |
