@@ -595,16 +595,6 @@
         <dict>
             <key>Add</key>
             <dict>
-                <key>PciRoot(0x0)/Pci(0x14,0x3)</key>
-                <dict>
-                    <key>device-id</key>
-                    <data>8AYAAA==</data>
-                </dict>
-                <key>PciRoot(0x0)/Pci(0x1D,0x6)/Pci(0x0,0x0)</key>
-                <dict>
-                    <key>device-id</key>
-                    <data>8hUAAA==</data>
-                </dict>
                 <key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
                 <dict>
                     <key>layout-id</key>
@@ -1269,6 +1259,36 @@
                     <key>Skip</key>
                     <integer>0</integer>
                 </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>Base</key>
+                    <string></string>
+                    <key>Comment</key>
+                    <string>Enable TRIM for SSD</string>
+                    <key>Count</key>
+                    <integer>0</integer>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Find</key>
+                    <data>AEFQUExFIFNTRAA=</data>
+                    <key>Identifier</key>
+                    <string>com.apple.iokit.IOAHCIBlockStorage</string>
+                    <key>Limit</key>
+                    <integer>0</integer>
+                    <key>Mask</key>
+                    <data></data>
+                    <key>MaxKernel</key>
+                    <string></string>
+                    <key>MinKernel</key>
+                    <string></string>
+                    <key>Replace</key>
+                    <data>AAAAAAAAAAAAAAA=</data>
+                    <key>ReplaceMask</key>
+                    <data></data>
+                    <key>Skip</key>
+                    <integer>0</integer>
+                </dict>
             </array>
             <key>Quirks</key>
             <dict>
@@ -1491,7 +1511,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>-wegnoegpu -igfxmpc -igfxblr</string>
+                    <string>fips_mode=4  -igfxmpc -igfxblr</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
