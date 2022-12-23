@@ -9,7 +9,7 @@ Msi Gs66 黑蘋果 Opencore EFI。
 This version of Opencore EFI was tested on MacOS Ventura 13.0.1. No guarantee to work on other versions.  
 Will commit in README and will opimize/update the EFI floder in the near future.  
   
-此版本的Opencore EFI適用於MacOS Ventura 13.0.1，尚未於其他版本測試。  
+此版本的Opencore EFI適用於MacOS Ventura 13.1，尚未於其他版本測試。  
 近期將會更新使用説明，並優化EFI和更新對新版本MacOS的支持。  
   
 # Spec 硬體規格  
