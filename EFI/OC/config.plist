@@ -1515,7 +1515,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>fips_mode=4  -igfxmpc -igfxblr</string>
+                    <string>fips_mode=4  -igfxmpc -igfxblt</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
